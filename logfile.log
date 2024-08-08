@@ -1,0 +1,7 @@
+[2024-08-07 21:40:57] [ ERROR] [DaoH2:53] Column count does not match; SQL statement:
+INSERT INTO VETERINARIOS VALUES(DEFAULT,?,?,?,?,? ) [21002-230]
+[2024-08-07 21:40:57] [ INFO ] [DaoH2:86] Veterinarios encontrados: [Veterinario{id=1, numeroLicencia='TPSR456813', nombre='ALBERTO', apellido='TRUJILLO', especialidad='PORCINOS'}]
+[2024-08-07 21:42:35] [ INFO ] [DaoH2:38] veterinario Veterinario{id=2, numeroLicencia='CER45648', nombre='LUCIA', apellido='CERPA', especialidad='CANINOS'}
+[2024-08-07 21:42:35] [ INFO ] [DaoH2:86] Veterinarios encontrados: [Veterinario{id=1, numeroLicencia='TPSR456813', nombre='ALBERTO', apellido='TRUJILLO', especialidad='PORCINOS'}, Veterinario{id=2, numeroLicencia='CER45648', nombre='LUCIA', apellido='CERPA', especialidad='CANINOS'}]
+[2024-08-07 21:43:23] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria Veterinario{id=1, numeroLicencia='CEPL4565678', nombre='LUCIA', apellido='CERPA', especialidad='CANINOS'}
+[2024-08-07 21:43:23] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria Veterinario{id=1, numeroLicencia='RHES4568', nombre='ROBERTO', apellido='OROZCO', especialidad='FELINOS'}
